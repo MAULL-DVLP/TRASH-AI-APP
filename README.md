@@ -26,7 +26,7 @@ Emulator atau Physical Device (untuk testing)
 Langkah Setup
 1. Clone Repository
    git clone https://github.com/MAULL-DVLP/TRASH-AI-APP
-cd TRASH-AI-APP
+cd trash_ai_app
 2. Verifikasi Flutter Environment
    flutter doctor
 Pastikan semua ✓ berwarna hijau (terutama Flutter SDK dan satu platform yang ingin digunakan).
